@@ -30,7 +30,7 @@
 
 ## 🎬 קישור לסרטון הסבר:
 ניתן לצפות בהסבר על העבודה בקישור הבא:  
-👉 [קישור לסרטון ביוטיוב](https://www.youtube.com/your-link-here)  
+👉 [קישור לסרטון ביוטיוב](https://youtu.be/5VHIi8qjc68)  
 *(יש להחליף לקישור האמיתי)*
 
 ## 🤖 שימוש ב־AI:
